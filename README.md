@@ -1,4 +1,4 @@
-# My websites from worst to best
+# My websites from good to better
 1. https://k-e-s-h-a-v.github.io/test/
 1. https://k-e-s-h-a-v.github.io/first-colorful-website/
 1. https://k-e-s-h-a-v.github.io/begusarai-times/
